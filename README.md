@@ -22,3 +22,5 @@
 ## How Interpereted languages work
 
 ## Why RustLang and GoLang are "safe" and the future
+
+## GDB
